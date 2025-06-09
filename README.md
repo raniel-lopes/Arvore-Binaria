@@ -1,5 +1,17 @@
 # Arvore-Binaria
 
+### EX001 - Escreva um programa que leia uma sequência de números e armazene em uma estrutura de árvore binária.  
+> **Inserir:** 50, 30, 20, 40, 70, 60, 80  
+>  
+> Liste todos os números nos **3 tipos de caminhamento**.
+
+           50
+        /      \
+       30       70
+      /  \      / \
+     20   40   60  10
+
+---
 
 ### EX002 - Faça um algoritmo para:
 
